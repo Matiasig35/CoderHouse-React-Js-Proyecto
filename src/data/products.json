@@ -1,0 +1,44 @@
+[
+    {
+      "id": 1,
+      "title": "Mate Justo Plateado",
+      "category": "termo",
+      "price": 24200,
+      "pictureUrl": "https://acdn.mitiendanube.com/stores/001/085/687/products/mate-justo-22-5a58594ad49677b87417001422564921-1024-1024.webp"
+    },
+    {
+      "id": 2,
+      "title": "Mate Justo Blanco",
+      "category": "termo",
+      "price": 24200,
+      "pictureUrl": "https://acdn.mitiendanube.com/stores/001/085/687/products/mate-justo-26-c7d080a506c76957a317001423303977-480-0.webp"
+    },
+    {
+      "id": 3,
+      "title": "Mate Justo Negro",
+      "category": "termo",
+      "price": 24200,
+      "pictureUrl": "https://acdn.mitiendanube.com/stores/001/085/687/products/mate-justo-32-12db6dc520fe50cb6517001423763840-1024-1024.webp"
+    },
+    {
+      "id": 4,
+      "title": "Mate Justo Rojo",
+      "category": "termo",
+      "price": 24200,
+      "pictureUrl": "https://acdn.mitiendanube.com/stores/001/085/687/products/mate-justo-28-22741764004d95c70017001424368537-1024-1024.webp"
+    },
+    {
+      "id": 5,
+      "title": "Bolso Justo",
+      "category": "bolso",
+      "price": 26500,
+      "pictureUrl": "https://acdn.mitiendanube.com/stores/001/085/687/products/0bbcc1a2-da85-49cb-9b8c-730a44e132641-434758741bb2c19de316568890856211-1024-1024.webp"
+    },
+    {
+      "id": 6,
+      "title": "Yerba Ana Carolina",
+      "category": "alimento",
+      "price": 2100,
+      "pictureUrl": "https://acdn.mitiendanube.com/stores/001/085/687/products/mate-justo-94-232125012bd2c865f217001429413186-1024-1024.webp"
+    }
+]
