@@ -14,16 +14,13 @@ export const NavBar = () => {
             <Navbar.Toggle aria-controls="responsive-navbar-nav" />
             <Navbar.Collapse id="responsive-navbar-nav">
                 <Nav className="me-auto">
-                    <Nav.Link to="/category/termo" as={NavLink}>Termos</Nav.Link>
-                    <Nav.Link to="/category/bolso" as={NavLink}>Bolsos</Nav.Link>
+                    <Nav.Link to="/categoryId/termo" as={NavLink}>Termos</Nav.Link>
+                    <Nav.Link to="/categoryId/bolso" as={NavLink}>Bolsos</Nav.Link>
                     <NavDropdown title="Yerbas" id="collapsible-nav-dropdown">
-                        <NavDropdown.Item to="/category/alimento" as={NavLink}>Clasica</NavDropdown.Item>
-                        <NavDropdown.Item to="/category/alimento" as={NavLink}>Barbacua</NavDropdown.Item>
-                        <NavDropdown.Item to="/category/alimento" as={NavLink}>Hierbas Serranas</NavDropdown.Item>
+                        <NavDropdown.Item to="/categoryId/alimento" as={NavLink}>Barbacua</NavDropdown.Item>
+                        <NavDropdown.Item to="/categoryId/alimento" as={NavLink}>Clasica</NavDropdown.Item>
+                        <NavDropdown.Item to="/categoryId/alimento" as={NavLink}>Hierbas Serranas</NavDropdown.Item>
                     </NavDropdown>
-                </Nav>
-                <Nav>
-                    <Nav.Link href="#otrosProductos">Otros productos</Nav.Link>
                 </Nav>
             </Navbar.Collapse>
             <CartWidget />
